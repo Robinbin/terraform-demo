@@ -1,5 +1,7 @@
 #  Local .terraform directories
 **/.terraform/*
+.idea
+stale_outputs_checked
 
 # .tfstate files
 *.tfstate
